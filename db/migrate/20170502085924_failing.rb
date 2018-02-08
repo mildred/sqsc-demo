@@ -1,0 +1,5 @@
+class CreateArticles < ActiveRecord::Migration[5.1]
+  def change
+    raise "failing"
+  end
+end
